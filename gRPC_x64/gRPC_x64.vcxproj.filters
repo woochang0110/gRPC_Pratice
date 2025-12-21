@@ -19,6 +19,9 @@
     <Filter Include="generated">
       <UniqueIdentifier>{f943781e-7527-4892-8d3d-549da867ca54}</UniqueIdentifier>
     </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{80e744a6-b6a1-444c-968e-8606375f696b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -33,6 +36,9 @@
     <ClInclude Include="generated\helloworld.pb.h">
       <Filter>generated</Filter>
     </ClInclude>
+    <ClInclude Include="include\grpc_api.h">
+      <Filter>include</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -46,6 +52,9 @@
     </ClCompile>
     <ClCompile Include="generated\helloworld.pb.cc">
       <Filter>generated</Filter>
+    </ClCompile>
+    <ClCompile Include="grpc_server.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
