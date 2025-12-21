@@ -1,0 +1,20 @@
+/*
+syntax = "proto3";
+
+package helloworld;
+
+// gRPC 서비스 정의
+service Greeter {
+  rpc SayHello (HelloRequest) returns (HelloReply);
+}
+
+// 요청 메시지
+message HelloRequest {
+  string name = 1;
+}
+
+// 응답 메시지
+message HelloReply {
+  string message = 1;
+}
+*/

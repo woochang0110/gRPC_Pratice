@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build output
+Debug/
+Release/
+x64/
+out/
+build/
+
+# C++ artifacts
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+
+# Precompiled headers
+*.ipch
+*.pch
+
+# Generated (protoc output)
+# generated/
+
+# vcpkg local installs (if inside repo)
+vcpkg_installed/

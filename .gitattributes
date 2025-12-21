@@ -1,0 +1,3 @@
+*.proto text eol=lf
+*.pb.h text eol=lf
+*.pb.cc text eol=lf

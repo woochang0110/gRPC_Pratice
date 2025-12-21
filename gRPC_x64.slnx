@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gRPC_x64/gRPC_x64.vcxproj" Id="72aa1255-bea9-4d05-82c4-deeaddb4d6ae" />
+</Solution>
