@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="grpc_client/grpc_client.vcxproj" Id="2bbb4a6b-fdd3-4083-baee-d71a5dc37676" />
+  <Project Path="grpc_server_host/grpc_server_host.vcxproj" Id="8de66df2-a16f-46f9-93e1-1ca2908f76db" />
   <Project Path="gRPC_x64/gRPC_x64.vcxproj" Id="72aa1255-bea9-4d05-82c4-deeaddb4d6ae" />
 </Solution>
